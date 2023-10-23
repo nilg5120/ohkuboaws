@@ -1,0 +1,2 @@
+# ohkuboaws
+aws練習
